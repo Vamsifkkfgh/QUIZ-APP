@@ -11,8 +11,8 @@ Certainly! Here's a README file that explains how to run the quiz app:  ---  #
 - Final score display upon completing the quiz.
   
   -  ## Usage  To run the quiz app, follow these steps:
-  -  1. **Clone the Repository**      ```     git clone https://github.com/your-username/quiz-app.git     ```
-     2. **Navigate to the Project Folder**      ```     cd quiz-app     ```
+  -  1. **Clone the Repository**      ```     git clone https://github.com/Vamsifkkfgh/QUIZ-APP.git     ```
+     2. **Navigate to the Project Folder**      ```     cd QUIZ-APP    ```
      3. **Open `index.html` in a Web Browser**      Simply open the `index.html` file in your preferred web browser (e.g., Chrome, Firefox, Safari, etc.).
      4. **Take the Quiz**      - You will be presented with a series of multiple-choice questions.
      5.  - Click on the radio button next to your chosen answer.
